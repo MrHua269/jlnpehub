@@ -1,6 +1,5 @@
 User ID                             NickName                                     OnlineID                        Backup              Priority
 ----------------------------------------------------------------------------------------------------- -------------------
-806467832                          Hyun                                           CrashOugy                        true                      1
 2571000977                       qidian857                                      Server                               true                      2
 2094471612                     ★寻梦~浑浊✓                                   bai_zhi_jun                       true                      1
 2058922858                      Michael(TNT_LWB)                         TNT_LWB                          true                      1
