@@ -18,16 +18,12 @@ User ID                             NickName                                    
 -----------------------------------------------------------------------------------------------------------------------------
 Group                                 Name                                           Owner                              replace                 priority
 -----------------------------------------------------------------------------------------------------------------------------
-149370356                         EEEEE                                             me                                    true                        1
 367433357                         ☁海绵☁Minecraft                         ★寻梦~浑浊✓                    true                        1 
 1073135029                       Natural 服务器交♂流♂群                 mc_xiaomajun                    true                        1
 861423381                         我的世界 CN-2B2T玩家交流群          NVIDIA_Cola                      true                        1.5 
 1090020491                       Minecraft                                       Kars-KOH                           true                        1.5
 934525300                         Kryta X - Minecraft Server              MattholyCN                       true                         2.3
 167876487                         蕭戰Minecraft1.12.2服务器              Blame_Dai                          true                         2
-564321347                        公益·咕社第五周目·咕社群组               WsKun                               true                         2
-235608864                         <none>                                         <none>                             true                         1
-341538142                         公益·咕社1.18测试服                         WsKun                              true                         1
 --------------------------------------------------------------------------------------------------------------------------------
 Warn: The file must has multi buckups
 1. https://wangxyper.github.io/fi/b1.txt
